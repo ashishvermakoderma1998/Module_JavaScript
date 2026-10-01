@@ -1,5 +1,5 @@
 const message = () => {
-    const name = "Ashish Ku";
+    const name = "Ashish Kum";
     const age = 28;
     return name + " is " + age + " Year Old"
 };
